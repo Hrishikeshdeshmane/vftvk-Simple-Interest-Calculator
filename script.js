@@ -1,4 +1,4 @@
-<script>
+
 	function compute()
 {
     var p,n,r,a;
@@ -15,4 +15,4 @@
 	document.getElementById("time").innerHTML = s;
 	document.getElementById("ra").innerHTML = r;
 }
-	</script>
+
